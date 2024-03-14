@@ -48,7 +48,7 @@ header h2 {
 }
 
 .image-container img {
-    max-width: 130%; 
+    max-width: 100%; 
     height: auto; 
     display: block; 
     margin: 0 auto; 
